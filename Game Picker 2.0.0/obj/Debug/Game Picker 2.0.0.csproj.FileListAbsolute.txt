@@ -1,0 +1,24 @@
+C:\Users\Kyle\source\repos\Game Picker 2\Game Picker 2.0.0\Game Picker 2.0.0\bin\Debug\Game Picker 2.0.0.exe.config
+C:\Users\Kyle\source\repos\Game Picker 2\Game Picker 2.0.0\Game Picker 2.0.0\bin\Debug\Game Picker 2.0.0.exe
+C:\Users\Kyle\source\repos\Game Picker 2\Game Picker 2.0.0\Game Picker 2.0.0\bin\Debug\Game Picker 2.0.0.pdb
+C:\Users\Kyle\source\repos\Game Picker 2\Game Picker 2.0.0\Game Picker 2.0.0\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kyle\source\repos\Game Picker 2\Game Picker 2.0.0\Game Picker 2.0.0\bin\Debug\System.Buffers.dll
+C:\Users\Kyle\source\repos\Game Picker 2\Game Picker 2.0.0\Game Picker 2.0.0\bin\Debug\System.Memory.dll
+C:\Users\Kyle\source\repos\Game Picker 2\Game Picker 2.0.0\Game Picker 2.0.0\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Kyle\source\repos\Game Picker 2\Game Picker 2.0.0\Game Picker 2.0.0\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Kyle\source\repos\Game Picker 2\Game Picker 2.0.0\Game Picker 2.0.0\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kyle\source\repos\Game Picker 2\Game Picker 2.0.0\Game Picker 2.0.0\bin\Debug\System.Buffers.xml
+C:\Users\Kyle\source\repos\Game Picker 2\Game Picker 2.0.0\Game Picker 2.0.0\bin\Debug\System.Memory.xml
+C:\Users\Kyle\source\repos\Game Picker 2\Game Picker 2.0.0\Game Picker 2.0.0\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Kyle\source\repos\Game Picker 2\Game Picker 2.0.0\Game Picker 2.0.0\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Kyle\source\repos\Game Picker 2\Game Picker 2.0.0\Game Picker 2.0.0\obj\Debug\Game Picker 2.0.0.csproj.AssemblyReference.cache
+C:\Users\Kyle\source\repos\Game Picker 2\Game Picker 2.0.0\Game Picker 2.0.0\obj\Debug\Game Picker 2.0.0.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kyle\source\repos\Game Picker 2\Game Picker 2.0.0\Game Picker 2.0.0\obj\Debug\Game_Picker_2._0._0.AddEditMode.resources
+C:\Users\Kyle\source\repos\Game Picker 2\Game Picker 2.0.0\Game Picker 2.0.0\obj\Debug\Game_Picker_2._0._0.Form1.resources
+C:\Users\Kyle\source\repos\Game Picker 2\Game Picker 2.0.0\Game Picker 2.0.0\obj\Debug\Game_Picker_2._0._0.Properties.Resources.resources
+C:\Users\Kyle\source\repos\Game Picker 2\Game Picker 2.0.0\Game Picker 2.0.0\obj\Debug\Game_Picker_2._0._0.RandomizerWindow.resources
+C:\Users\Kyle\source\repos\Game Picker 2\Game Picker 2.0.0\Game Picker 2.0.0\obj\Debug\Game Picker 2.0.0.csproj.GenerateResource.cache
+C:\Users\Kyle\source\repos\Game Picker 2\Game Picker 2.0.0\Game Picker 2.0.0\obj\Debug\Game Picker 2.0.0.csproj.CoreCompileInputs.cache
+C:\Users\Kyle\source\repos\Game Picker 2\Game Picker 2.0.0\Game Picker 2.0.0\obj\Debug\Game Picker 2.0.0.csproj.CopyComplete
+C:\Users\Kyle\source\repos\Game Picker 2\Game Picker 2.0.0\Game Picker 2.0.0\obj\Debug\Game Picker 2.0.0.exe
+C:\Users\Kyle\source\repos\Game Picker 2\Game Picker 2.0.0\Game Picker 2.0.0\obj\Debug\Game Picker 2.0.0.pdb
